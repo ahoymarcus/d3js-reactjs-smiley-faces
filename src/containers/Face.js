@@ -1,8 +1,8 @@
 // components
 import FaceContainer from './FaceContainer';
-import BackgroundFace from './BackgroundFace';
-import Eye from './Eye';
-import Mouth from './Mouth';
+import BackgroundFace from '../components/BackgroundFace';
+import Eye from '../components/Eye';
+import Mouth from '../components/Mouth';
 
 
 
