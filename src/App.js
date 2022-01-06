@@ -8,7 +8,7 @@ import Smileys from './containers/Smileys';
 
 
 
-const App = () => <Smiley />;
+const App = () => <Smileys />;
 
 
 export default App;

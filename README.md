@@ -1,4 +1,4 @@
-# Mr Smiley - React-JS and D3.js
+# Mr Smileys App - React-JS and D3.js
  
 
 <br />
@@ -14,7 +14,7 @@ Projeto para criar um React-JS app que renderiza 'carinhas' de emoji usando SVG 
 
 R:
 
-- [____  React-JS App no Netlify]()
+- [Mr Smileys App no Netlify](https://d3js-reactjs-emoji-faces.netlify.app/)
 
 <br />
 
